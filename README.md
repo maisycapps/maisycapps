@@ -11,15 +11,14 @@
 
   #### Let's Connect! 
   
-   <div id="badges">
-      <a href="https://www.linkedin.com/in/maisy-capps">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a><br />
-      <a href="mailto:maisycapps@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
-      </a>
-    </div>
-</div><br />
+   <div id="badges" style="display: inline-flex; gap: 10px;">
+      <a href="https://www.linkedin.com/in/maisy-capps" style="text-decoration: none; border: none">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" title="LinkedIn Badge" **alt="LinkedIn Badge"/></a>
+     <a href="mailto:maisycapps@gmail.com" style="text-decoration: none; border: none">
+       <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red" title="Gmail Badge" **alt="Gmail Badge"/></a>
+   </div> 
+ 
+</div>
 
 
 <div id="languages" align="center"><br /><br />
@@ -33,12 +32,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/><br/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" **alt="Prisma" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" **alt="Prisma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" **alt="Netlify" width="40" height="40"/>
   </div>  
 </div><br /><br /><br />
