@@ -2,8 +2,10 @@
 
   ## *Hello, Maisy speaking* 
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazE5OW15c3FkeG0wY2E2amhxdHk3cWc5YTl5Ym8xb3Z2cXBxand5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kje0rsDyVEMEzQLPol/giphy.gif" width="100"/>
-</div><br /><br />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazE5OW15c3FkeG0wY2E2amhxdHk3cWc5YTl5Ym8xb3Z2cXBxand5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kje0rsDyVEMEzQLPol/giphy.gif" width="100"/><br />
+
+  I am a Software Engineer and Designer based in Los Angeles, California. With 5+ years of independent product design work, my style of coding is simple, effective, and efficient. I welcome unfamiliar challenges with an open mind, hungry eyes, and deep patience.
+</div><br />
 
 <div id="badges" align="center">  
     <a href="https://www.linkedin.com/in/maisy-capps">
@@ -11,10 +13,11 @@
     </a><br />
     <a href="mailto:maisycapps@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
-    </a><br /><br /><br />
+    </a><br /><br />
 </div>
 
-<div id="languages" align="center">
+
+<div id="languages" align="center"><br /><br />
   
   #### Languages + Tools 
 
@@ -35,8 +38,15 @@
   </div>  
 </div><br /><br /><br />
 
-<div id="extras" align="center">  
+<div id="extras" align="center"> 
   
-  #### 🐕 Lapdog in Residence
-  Terry, senior rescue chihuahua
+  #### Misc. Facts:
+  
+  **Activities:**    Meditation, crossword puzzles, and baking
+
+  **Unofficial Titles:**    Amateur naturalist, Resident doodler
+
+  **Coding Lapdog:**   Terry, the 5lbs senior rescue chihuahua
+
 </div>
+
