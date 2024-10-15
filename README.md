@@ -4,7 +4,7 @@
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazE5OW15c3FkeG0wY2E2amhxdHk3cWc5YTl5Ym8xb3Z2cXBxand5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kje0rsDyVEMEzQLPol/giphy.gif" width="100"/><br />
 
-  I am a Software Engineer and Designer based in Los Angeles, California. With 5+ years of independent product design work, my style of coding is simple, effective, and efficient. I welcome unfamiliar challenges with an open mind, hungry eyes, and deep patience.
+  I am a Software Engineer and Designer based in Los Angeles, California. With 5+ years of independent product design work, my style of coding is simple, effective, and efficient. I welcome unfamiliar challenges with an open mind, hungry eyes, and deep patience. Here you will find independent projects, collaborative work, and a "playground" or two where I practice my coding chops. 
 </div><br />
 
 <div id="connect" align="center">  
