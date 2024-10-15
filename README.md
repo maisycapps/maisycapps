@@ -7,14 +7,19 @@
   I am a Software Engineer and Designer based in Los Angeles, California. With 5+ years of independent product design work, my style of coding is simple, effective, and efficient. I welcome unfamiliar challenges with an open mind, hungry eyes, and deep patience.
 </div><br />
 
-<div id="badges" align="center">  
-    <a href="https://www.linkedin.com/in/maisy-capps">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a><br />
-    <a href="mailto:maisycapps@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
-    </a><br /><br />
-</div>
+<div id="connect" align="center">  
+
+  #### Let's Connect! 
+  
+   <div id="badges">
+      <a href="https://www.linkedin.com/in/maisy-capps">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a><br />
+      <a href="mailto:maisycapps@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
+      </a>
+    </div>
+</div><br />
 
 
 <div id="languages" align="center"><br /><br />
