@@ -44,8 +44,6 @@
 
 <div id="extras" align="center"> 
   
-  #### Misc. Facts:
-  
   **Activities:**    Meditation, crossword puzzles, and baking
 
   **Unofficial Titles:**    Amateur naturalist, Resident doodler
