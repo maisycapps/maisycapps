@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  ## *Hello, Maisy speaking* 
+  ## *Hello* 
 
 </div>
 
