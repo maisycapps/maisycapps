@@ -6,8 +6,9 @@
 </div>
 
 <div id="blurb" align="left">
-  
-  I am a Software Engineer and Designer based in Los Angeles, California. With 5+ years of independent product design work, my style of coding is simple, effective, and efficient. I welcome unfamiliar challenges with an open mind, hungry eyes, and deep patience. Here you will find independent projects, collaborative work, and a "playground" or two where I practice my coding chops.
+  I am a Software Engineer and Designer based in Los Angeles, California, with over 5 years of experience in independent product design. My approach to coding prioritizes simplicity, effectiveness, and efficiency, allowing me to create robust solutions to complex problems.
+
+I embrace new challenges with an open mind and a commitment to continuous learning. On my GitHub, you will find a variety of projects, ranging from independent endeavors to collaborative efforts, showcasing my skills in software development. Additionally, I maintain a "playground" section where I experiment with new technologies and hone my coding abilities.
   
 </div><br />
 
